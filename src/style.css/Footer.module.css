@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 200px;
+  align-items: center;
+}
+.footer_link {
+  display: flex;
+}
+.footer_link li {
+  margin-left: 35px;
+  color: black;
+}
+.footer_link li a {
+  color: rgba(0, 0, 0, 0.5);
+}
+.footer_copyright{
+    color: rgba(0, 0, 0, 0.5);
+}
